@@ -24,11 +24,7 @@
 <code><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" width="150px" height="75px"></code>
-<code><img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg" width="150px" height="75px"></code>
-<code><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" width="150px" height="75px"></code>
-<code><img src="https://pbs.twimg.com/media/Dp3nCCdXgAEIMxM.png" width="150px" height="75px"></code>
-<code><img src="https://victomanolo.files.wordpress.com/2018/01/logo.png" width="150px" height="75px"></code>
 <code><img src="https://upload.vectorlogo.zone/logos/apache_maven/images/bf250be6-ab7f-4191-b421-8d0acb1dc6e4.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" width="150px" height="75px"></code>
@@ -53,10 +49,15 @@
 <code><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" width="150px" height="75px"></code>
+<code><img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" width="150px" height="75px"></code>
+
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
 <code><img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="150px" height="75px"></code>
+<code><img src="https://pbs.twimg.com/media/Dp3nCCdXgAEIMxM.png" width="150px" height="75px"></code>
+<code><img src="https://victomanolo.files.wordpress.com/2018/01/logo.png" width="150px" height="75px"></code>
+<code><img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg" width="150px" height="75px"></code>
 
 <br><br>
 
