@@ -14,7 +14,7 @@
 - :school: Soy estudiante del Instituto Valle Grande
 - :computer: Me gusta programar mas soy de `Java` y `Angular`.
 - :nerd_face: Siempre `aprendiendo nuevas cosas`.
-- :thinking: Actualmente estoy abierto a una nueva `oportunidad laboral`, este es mi [GMAIL](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: Actualmente estoy abierto a una nueva `oportunidad laboral`, este es mi [GMAIL](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox).
 - :boom: Puedes Visitar [LINKEDIN](https://www.linkedin.com/in/angel-gabriel-castilla-sandoval-412740252/).
 <br>
 
